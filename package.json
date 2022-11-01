@@ -43,6 +43,6 @@
     "codecov": "^3.2.0",
     "oletus": "^3.0.0",
     "rollup": "^3.2.4",
-    "sanctuary-scripts": "^4.0.0"
+    "sanctuary-scripts": "^5.0.0"
   }
 }
