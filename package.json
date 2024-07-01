@@ -39,7 +39,7 @@
   "dependencies": {},
   "peerDependencies": {},
   "devDependencies": {
-    "c8": "^9.1.0",
+    "c8": "^10.1.2",
     "codecov": "^3.2.0",
     "oletus": "^4.0.0",
     "rollup": "^4.6.1",
